@@ -1,4 +1,4 @@
-# English-vocabulary-memorize
+###  English-vocabulary-memorize
 # 영어 단어 연습장 아직 미완성(개발중)
 
 
